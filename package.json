@@ -1,0 +1,27 @@
+{
+  "name": "ryuk",
+  "version": "1.0.0",
+  "description": "Ryuk selfbot",
+  "main": "ryuk.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "colors": "^1.4.0",
+    "discord-backup": "^2.1.13",
+    "discord.js": "^11.6.4",
+    "discordrpcgenerator": "^1.2.0",
+    "generate-password": "^1.5.1",
+    "giphy-js-sdk-core": "^1.0.6",
+    "neko-love": "^1.0.1",
+    "nekos.life": "^2.0.6",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryuk",
+  "license": "ISC"
+}
